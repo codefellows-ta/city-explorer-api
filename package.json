@@ -1,0 +1,26 @@
+{
+  "name": "city-explorer-api",
+  "version": "1.0.0",
+  "description": "Custom API server to handle data management for front end react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-ta/city-explorer-api.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "api"
+  ],
+  "author": "Joe Pennock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codefellows-ta/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/codefellows-ta/city-explorer-api#readme"
+}
